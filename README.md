@@ -1,10 +1,10 @@
 ### Oii, Sou o Lucas 😀
 
-## Sou estudante e estou aprendeno desenvolvimento  web!!
+## Sou estudante e estou aprendendo desenvolvimento  web!!
 
 - 🌱 Aperfeiçoando JavaScript
 - 👯 Criando conteúdo de valor
-- 🥅  Planos 2022: trabalhar com desenvolvimeto wev
+- 🥅  Planos 2022: trabalhar com desenvolvimeto web
 
 ### Conecte comigo:
 

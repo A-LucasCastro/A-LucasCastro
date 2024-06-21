@@ -4,7 +4,7 @@
 
 - 🌱 Aperfeiçoando JavaScript
 - 👯 Criando conteúdo de valor
-- 🥅  Planos 2022: trabalhar com desenvolvimeto web
+- 🥅  Planos 2024: trabalhar com desenvolvimeto web
 
 ## Minhas Skills
 <table><tr><td valign="top" width="33%">
